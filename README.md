@@ -1,8 +1,8 @@
-Data engineer building scalable systems and AI/LLM integrations.
+Engineer building scalable data systems and AI/LLM integrations.
 
 Previously at Airtable, Stripe, Goldman Sachs.
 
-**Stack:** Python, JavaScript/TypeScript, SQL, Data pipelines, LLMs, React, AWS
+**Stack:** Python, Scala, Ruby, JavaScript/TypeScript, SQL, Spark, Databricks, Airflow, dbt, Snowflake, React, GraphQL, AWS, Docker, Presto/Trino, MongoDB
 
 [Portfolio](https://github.com/zeredbaron/portfolio)
 
