@@ -1,17 +1,8 @@
-# Hi, I'm Baron 👋
+Data engineer building scalable systems and AI/LLM integrations.
 
-Data engineer and software developer with experience building scalable systems and AI/LLM technologies.
+Previously at Airtable, Stripe, Goldman Sachs.
 
-### 💼 Experience
-- **Airtable** - Data Engineering
-- **Stripe** - Software Engineering  
-- **Goldman Sachs** - Technology
+**Stack:** Python, JavaScript/TypeScript, SQL, Data pipelines, LLMs, React, AWS
 
-### 🛠️ Tech Stack
-Python • JavaScript/TypeScript • SQL • Data pipelines • LLMs • React • AWS
-
-### 🚀 Projects
-Check out my [personal portfolio](https://github.com/zeredbaron/portfolio) - a terminal-style interface built with vanilla JavaScript.
-
-![Baron's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeredbaron&show_icons=true&theme=dark)
+[Portfolio](https://github.com/zeredbaron/portfolio)
 
